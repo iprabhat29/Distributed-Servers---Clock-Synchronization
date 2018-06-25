@@ -1,0 +1,42 @@
+{
+    "Clients": [
+        {
+            "port": "5050", 
+            "clientID": "1"
+        }, 
+        {
+            "port": "5000", 
+            "clientID": "Prabhat"
+        }
+    ], 
+    "Team": {
+        "Rome": {
+            "Stone Skating": {
+                "Score": "50"
+            }, 
+            "Gold": 16508, 
+            "Stone Throwing": {
+                "Score": "300"
+            }, 
+            "Stone Curling": {
+                "Score": "300"
+            }, 
+            "Silver": 918, 
+            "Bronze": 7
+        }, 
+        "Gual": {
+            "Stone Skating": {
+                "Score": "50"
+            }, 
+            "Gold": 17429, 
+            "Stone Throwing": {
+                "Score": "600"
+            }, 
+            "Stone Curling": {
+                "Score": "600"
+            }, 
+            "Silver": 2, 
+            "Bronze": 8
+        }
+    }
+}
